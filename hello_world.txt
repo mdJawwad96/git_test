@@ -1,0 +1,2 @@
+This is the git project wherein I'm practicing the git commands.
+Git is very useful for development and it is easy to use.

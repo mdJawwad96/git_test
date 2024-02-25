@@ -1,1 +1,3 @@
-This is my first git project.
+# git_test
+My first git repo
+Hello Odin project
